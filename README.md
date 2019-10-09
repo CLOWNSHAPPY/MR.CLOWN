@@ -1,5 +1,4 @@
 # MR.CLOWN
-I will also happy
 # INSTALL
 ...
 $pkg install git
